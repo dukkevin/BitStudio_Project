@@ -25,7 +25,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="25dp"
             android:fontFamily="@font/scada_bold"
-            android:text="Need Business Consulting?"
+            android:text="@string/main_title"
             android:textColor="#343434"
             android:textSize="20sp" />
 
@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="@font/scada_bold"
-            android:text="Here we are, just for you and your company!"
+            android:text="@string/sub_title"
             android:textColor="#343434"
             android:textSize="16sp" />
 
@@ -58,7 +58,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
-                    android:text="Contact Us"
+                    android:text="@string/contact"
                     android:textAllCaps="true"
                     android:textStyle="bold" />
 
@@ -88,25 +88,25 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Phone: 0747 62 00 86" />
+                            android:text="@string/phone" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Mail: info@bitstudio.com" />
+                            android:text="@string/mail" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Romania, Brasov" />
+                            android:text="@string/country" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Str. Caraiman, Nr. 37" />
+                            android:text="@string/street" />
 
                     </LinearLayout>
 
@@ -133,38 +133,38 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Hours of operation"
+                            android:text="@string/hours"
                             android:textStyle="italic" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Monday: 09:00 - 18:00" />
+                            android:text="@string/monday" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Tuesday: 08:00 - 17:00" />
+                            android:text="@string/tuesday" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Wednesday: 08:00 - 17:00" />
+                            android:text="@string/wednesday" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Thursday: 09:00 - 18:00" />
+                            android:text="@string/thursday" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Friday: 09:00 - 12:00" />
+                            android:text="@string/friday" />
 
                     </LinearLayout>
 
@@ -188,7 +188,7 @@
                 android:layout_marginBottom="20dp"
                 android:background="#fff"
                 android:padding="10dp"
-                android:text="Thank you!" />
+                android:text="@string/thank" />
 
         </LinearLayout>
 

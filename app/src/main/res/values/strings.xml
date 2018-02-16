@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">BitStudio</string>
+    <!-- MAIN TITLE -->
+    <string name="main_title">Need Business Consulting?</string>
+    <!-- SUB TITLE -->
+    <string name="sub_title">Here we are, just for you and your company!</string>
+    <!-- CONTACT US FORM -->
+    <string name="contact">Contact Us</string>
+    <!-- LEFT COLUMN -->
+    <string name="phone">Phone: 0747 62 00 86</string>
+    <string name="mail">Mail: info@bitstudio.com</string>
+    <string name="country">Romania, Brasov</string>
+    <string name="street">Str. Caraiman, Nr. 37</string>
+    <!-- RIGHT COLUMN -->
+    <string name="hours">Hours of operation</string>
+    <string name="monday">Monday: 09:00 &#8211; 18:00</string>
+    <string name="tuesday">Tuesday: 08:00 &#8211; 17:00</string>
+    <string name="wednesday">Wednesday: 08:00 &#8211; 17:00</string>
+    <string name="thursday">Thursday: 09:00 &#8211; 18:00</string>
+    <string name="friday">Friday: 09:00 &#8211; 12:00</string>
+    <!-- THANK YOU -->
+    <string name="thank">Thank you!</string>
 </resources>
